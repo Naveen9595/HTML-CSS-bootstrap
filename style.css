@@ -1,0 +1,216 @@
+
+ .header
+{
+ color:white;
+}
+ .header .navbar-brand
+ {
+ font-size:40px;
+ margin-left:50px;
+ color:white;
+ 
+ }
+
+ .header .navbar-default
+ {
+  
+  padding:20px;
+  padding-right:100px;
+  background-color:rgba(0,0,0,0.38);
+  
+ 
+ }
+ .header .navbar-default ul a{
+  color:white;
+ }
+ .div1
+ {
+ background:url('img/hero-bg.jpg');
+ height:700px;
+ background-size:cover;
+ background-attachment:fixed;
+ 
+ }
+ .div1 h1{
+ 
+ margin-top:300px;
+ color:white;
+ font-size:50px;
+ }
+ .div1 p
+ {
+ margin-top:20px;
+ margin-bottom:40px;
+ color:white;
+ font-size:25px;
+ }
+ .div1  .btn-default{
+ background-color:rgba(0, 0, 0, 0);
+ color:white;
+ border-radius:20px;
+ font-size:20px;
+ }
+ .div1bg
+ {
+ background-color:rgba(0, 0, 0, 0.38);
+ height:700px;
+ }
+ .aboutus{
+ padding-top:40px;
+ padding-bottom:40px;
+ }
+ .aboutus img{
+ 
+ margin-right:20px;
+ }
+  .aboutus .faaus{
+  border:2px solid black;
+  border-radius:50%;
+  height:70px;
+  width:70px;
+  font-size:30px;
+  padding:18px;
+  
+  }
+  .header a:hover
+  {
+  border-bottom:1px solid green;
+  transition:2s;
+  }
+  .facts{
+  background-color:rgb(244, 248, 255);
+  padding-top:40px;
+  padding-bottom:40px;
+  }
+  .facts h1{
+  margin-bottom:20px;
+  color:rgb(192, 193, 196);
+  }
+  .facts p{
+  margin-bottom:40px;
+  }
+  .servicesback{
+  padding-top:15px;
+  padding-bottom:20px;
+  font-size:14px;
+  margin-bottom:60px;
+   
+  background-color:rgb(244, 248, 255);
+  margin-top:30px; 
+  }
+  .services
+  {
+   padding-top:60px;
+  
+  }
+  .services .row1{
+  margin-top:20px;
+  margin-bottom:40px;
+  }
+   .services .faserv{
+  background-color:#53c68c;
+  border-radius:50%;
+  padding:20px;
+  font-size:20px;
+  color:white;
+
+  margin-top:-55px;
+  margin-left:-30px;
+  border:5px solid white;
+  }
+  .btn-default{
+  border-radius:15px;
+  
+  }
+  .call {
+  background:url('img/call-to-action-bg.jpg');
+  height:300px;
+  background-attachment:fixed; 
+  color:white;
+  
+  }
+  .call button{
+  margin-top:40px;
+  color:white;
+  background-color:rgba(0, 0, 0, 0);
+  border:2px solid white;
+  
+  }
+  .call .row{
+  margin-top:100px;
+ 
+  }
+ .portfolio{
+ padding-top:40px;
+ padding-bottom:40px;
+  background-color:rgb(244, 248, 255);
+ }
+ .portfolio .btn{
+ 
+ border-radius:0px;
+margin-right:20px;
+ margin-top:20px;
+ margin-bottom:20px;
+ }
+ .portfolio img{
+ 
+ padding-top:13px;
+ padding-right:5px;
+ }
+ .team
+ {
+ margin-top:40px;
+ margin-bottom:40px;
+ 
+ }
+ .team img{
+ margin-top:20px;
+ padding:20px;
+  }
+  
+ .team .fateam{
+ font-size:20px;
+ color:grey;
+position:none;
+margin:-5px;
+ }
+ .team ul{
+ margin-right:10px;
+ }
+ .team ul li
+ {
+ 
+  padding:15px;
+ 
+ 
+ }
+ .contact
+ {
+   background-color:rgb(244, 248, 255);
+   padding-top:40px;
+   padding-bottom:40px;
+ }
+ .contact .facontact
+  {
+ 
+ font-size:45px;
+
+  }
+  .contact .row p{
+  margin-top:-40px;
+  margin-left:200px;
+  
+  }
+  .contact .row{
+  margin-top:40px;
+  
+  }
+  .contacthead p{
+  margin-bottom:40px;
+  }
+  .footer{
+  padding-top:40px;
+  padding-bottom:40px;
+  background-color:rgba(0, 0, 0, 0.53);
+  color:white;
+  }
